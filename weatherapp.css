@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg);
+    background-position: center;
+    background-size: cover;
+    width:400px;
+}
+.main {
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    padding: 15%;
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+  }
+  
+  .heading{
+  color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  .input{
+    background-color:black;
+    color:yellow;
+    font-family: cursive;
+    margin:0px 10px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    cursor: pointer;
+   background-color: black;
+   color:deeppink;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  button:hover{
+    transform: scale(1.03);
+  }
